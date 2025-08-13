@@ -466,7 +466,7 @@ body {
   .navbar {
     display: none;
     flex-direction: column;
-    background: white;
+    background: black;
     position: absolute;
     top: 100%;
     left: 0;
