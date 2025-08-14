@@ -341,9 +341,16 @@ body {
   display: none;
 }
 
-.header-top-item .item-link {
-  margin-bottom: 10px;
+.header-top-item .item-title {
+  margin-top: 10px;
+
 }
+
+.header-top-item .item-text {
+  margin-top: 10px;
+
+}
+
 
 .header-top-list,
 .header-top-list .social-list {
