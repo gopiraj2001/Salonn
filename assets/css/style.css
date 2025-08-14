@@ -341,6 +341,10 @@ body {
   display: none;
 }
 
+.header-top-item .item-link {
+  margin-bottom: 10px;
+}
+
 .header-top-list,
 .header-top-list .social-list {
   display: flex;
