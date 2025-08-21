@@ -1426,6 +1426,14 @@ body {
   }
 }
 
+/* --------------------------------- *\
+    #Hair Washing
+\*-----------------------------------*/
+
+
+
+
+
 /*-----------------------------------*\
   #Beardcut & Beard Styles
 \*-----------------------------------*/
@@ -1720,6 +1728,16 @@ p.section-subtitle {
   .modal-content {
     max-height: 90vh;
     overflow-y: auto;
+  }
+
+  .nav-toggle-btn {
+    display: block;
+  }
+
+  .nav-toggle-btn {
+    color: var(--white);
+    font-size: 40px;
+
   }
 }
 
